@@ -1,0 +1,43 @@
+<!-- element -->
+<!-- <h1>  </h1> element
+<h1> open tag
+</h1> close tag    -->
+
+<!-- only open tag  -->
+<!-- <br>
+<img src="" alt="">
+<input type="text"> -->
+
+
+<!-- attribute -->
+
+<!-- <h1 class="heading1" id=""> Sayed </h1>
+<a href=""> </a>
+<img src="" alt=""> -->
+
+<!-- nested elements -->
+
+<!-- <button>
+    <p>
+        <span>
+            sayed
+        </span>
+    </p>
+    <img src="" alt="">
+</button>
+
+<div>
+    <div>
+        <div>
+            
+        </div>
+    </div>
+</div> -->
+
+
+<!-- Form -->
+<form>
+    <label for="name">Name</label>
+    <br>
+    <input id="name" type="text">
+</form>
